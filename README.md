@@ -38,6 +38,29 @@ Security & Observability
 
 ---
 
+## 🎯 Current Focus
+
+- Azure networking architecture
+- Terraform infrastructure modules
+- Azure DevOps pipeline automation
+- Cloud security engineering
+- Building real-world cloud lab environments
+
+---
+
+## 📜 Certifications
+
+- Microsoft AZ-500 — Azure Security Engineer Associate
+- Microsoft AZ-104 — Azure Administrator Associate
+- Preparing for:
+  - AZ-700 — Azure Networking Engineer
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://linkedin.com/in/nicholas-h-793b89220
+- GitHub Projects: https://github.com/nhzl
 <!---
 nhzl/nhzl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
